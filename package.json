@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Bexzod9866/backend/issues"
   },
-  "homepage": "https://github.com/Bexzod9866/backend#readme"
+  "homepage": "https://github.com/Bexzod9866/backend#readme",
+  "dependencies": {
+    "mongoose": "^6.4.3"
+  }
 }
